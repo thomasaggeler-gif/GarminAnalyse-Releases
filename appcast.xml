@@ -3,6 +3,20 @@
     <channel>
         <title>GarminAnalyse</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Thu, 24 Sep 2026 07:21:56 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Coach mit Garmin-Zeitfenster, Claude-Chat, dunkler Modus und günstigerem Haiku-Modell.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse-0.4.0.zip" length="50697777" type="application/octet-stream" sparkle:edSignature="x117tbXkJGZEJSzHb28jQsbBs9sDlgcY9Fi6io0CnGebPnS1S28HkSi2Gy785o0N+AVYPT7mIhRY0rGLTE77Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse3-1.delta" sparkle:deltaFrom="1" length="5601130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9O2h+Ka+PIbmV66N0usn7pgJql+VgzPXuT/B1ENE7Uvoaf1bLjql+5IIBEcolvdwxB7ImxJI1S0LUGctfwEIAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Tue, 15 Sep 2026 20:27:34 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
