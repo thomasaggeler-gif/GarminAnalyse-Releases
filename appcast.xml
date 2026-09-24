@@ -3,6 +3,21 @@
     <channel>
         <title>GarminAnalyse</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Thu, 24 Sep 2026 19:20:45 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Oberfläche wie TA Suite (Navy/Türkis, Hover). Gemeinsames Coach-Hirn für Mac und Handy.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse-0.4.3.zip" length="50759427" type="application/octet-stream" sparkle:edSignature="tcHqwRqrlGN8y4/hy2kgnYTgmbtfbzkZy+l1gyt2DIHMtoqXFjpIwp9P0wGOBySQpzM/Qsm9OAQEYlQLUghKAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse4-3.delta" sparkle:deltaFrom="3" length="593266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mEslCS4N6sEbesp3cWl/WdVu/wX6xhU0Nw2vQqcYZgqzyjXIAqkKp9HBJZ8B+qlr0KD8cr1Cs2AhPKG64WraAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse4-1.delta" sparkle:deltaFrom="1" length="5639642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="meuhSSIwVuwSe+67ULJqlmtNtkNe2J4jgAW+JvOYpiTuCblDwNH3yOnHCbCRPnEVlzdfKhgEaLXjQDZHilleDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Thu, 24 Sep 2026 07:21:56 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -13,7 +28,7 @@
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse-0.4.0.zip" length="50697777" type="application/octet-stream" sparkle:edSignature="x117tbXkJGZEJSzHb28jQsbBs9sDlgcY9Fi6io0CnGebPnS1S28HkSi2Gy785o0N+AVYPT7mIhRY0rGLTE77Bw=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse3-1.delta" sparkle:deltaFrom="1" length="5601130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9O2h+Ka+PIbmV66N0usn7pgJql+VgzPXuT/B1ENE7Uvoaf1bLjql+5IIBEcolvdwxB7ImxJI1S0LUGctfwEIAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/GarminAnalyse-Releases/main/FitAnalyse3-1.delta" sparkle:deltaFrom="1" length="5601130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
         <item>
